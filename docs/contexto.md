@@ -98,7 +98,7 @@ O dataset contém registros de transações digitais com o objetivo de identific
 
 # 🎬 Vídeo de apresentação da Etapa 01
 
-Este vídeo apresenta a primeira etapa do projeto: **definição do contexto e levantamento de dados.** Mostramos como estruturamos o problema e coletamos as informações essenciais para análise de fraude em pagamentos digitais.
+Este vídeo apresenta a **Etapa 01 do projeto**, dedicada à **definição do contexto e ao levantamento de dados**. Nele, mostramos como estruturamos o problema e realizamos a coleta das informações essenciais para a análise de fraudes em pagamentos digitais.
 
-A apresentação poderá ser vista pelo seguinte link: https://youtu.be/xVXJk0D0Ryw
+[![Vídeo de apresentação](https://img.youtube.com/vi/xVXJk0D0Ryw/0.jpg)](https://youtu.be/xVXJk0D0Ryw)
 
